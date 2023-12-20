@@ -1,6 +1,6 @@
-# blag
+# blac
 
-blag is a blog-aware, static site generator, written in [Python][].
+`blac` is a fork of `blag`: the blog-aware, static site generator, written in [Python][].
 
 * an example "deployment" can be found [here][venthur.de]
 * online [documentation][] is available on https://readthedocs.org.
